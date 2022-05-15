@@ -512,6 +512,7 @@ img {
 .footer__input {
   background-color: var(--container-color);
   width: 90%;
+  color: var(--white-color);
 }
 
 .footer__input::placeholder {
