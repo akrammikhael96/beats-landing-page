@@ -1,7 +1,7 @@
 
 # Beats 3 
 
-Beats 3 responsive  landing page.
+Animated Beats 3 responsive landing page.
 
 
 ## Demo
